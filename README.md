@@ -71,3 +71,33 @@ I built the dashboard with different visuals to answer key business questions:
 
 
 
+![digipeng fin tech](https://github.com/user-attachments/assets/6a07a835-331e-495b-9663-c6addc7a5ddb)
+![fintech 2](https://github.com/user-attachments/assets/655eb236-29b1-4b5c-be82-e01fb8105ea4)
+
+
+
+
+
+
+## RECOMMENDATION
+   Based on the insights from the dashboard, here are some recommendations for DIGIPENG:
++ Improve Failed Transactions
+Channels like POS and Web recorded more failed transactions. The company should investigate technical or user issues and optimize these platforms.
++ Focus on Top Customer Segments
+The 26–35 age group and Mobile App users are the most active. Marketing efforts and feature improvements should target these users.
++ Boost Agent & USSD Channels in High-Traffic Areas
+Cities like Lagos, Abuja, and Ibadan show high transaction volumes. These areas should be prioritized for better agent support and service reliability.
++ Monitor Peak Periods
+Since certain months show higher activity, DIGIPENG can prepare ahead with more system support or promotional offers during those times.
++ Encourage App Usage
+Since the Mobile App has the highest success rate, DIGIPENG can promote app usage with incentives to reduce failed transactions on other channe
+
+
+
+
+
+
+
+
+
+
